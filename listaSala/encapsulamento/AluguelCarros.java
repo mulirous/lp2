@@ -38,6 +38,8 @@ public class AluguelCarros {
                 default:
                     System.out.println("Opção inválida! Tente novamente.");
             }
+
+            sc.close();
         }
     }
 
