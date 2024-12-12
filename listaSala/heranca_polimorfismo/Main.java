@@ -1,4 +1,4 @@
-package listaSala.heranca_polimorfismo;
+package heranca_polimorfismo;
 
 import java.util.List;
 import java.util.ArrayList;

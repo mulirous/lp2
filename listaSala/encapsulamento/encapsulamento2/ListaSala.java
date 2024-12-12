@@ -1,4 +1,4 @@
-package listaSala.encapsulamento.encapsulamento2;
+package encapsulamento.encapsulamento2;
 
 import java.util.Scanner;
 import static java.lang.Math.sqrt;

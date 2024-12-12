@@ -1,4 +1,4 @@
-package listaSala.heranca_polimorfismo;
+package heranca_polimorfismo;
 
 public class Veiculos {
     public static void main(String[] args) {

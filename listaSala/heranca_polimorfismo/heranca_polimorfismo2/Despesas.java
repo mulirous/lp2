@@ -1,4 +1,4 @@
-package heranca_polimorfismo2;
+package heranca_polimorfismo.heranca_polimorfismo2;
 
 public class Despesas {
     public static void main(String[] args) {

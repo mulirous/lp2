@@ -1,4 +1,4 @@
-package listaSala.encapsulamento;
+package encapsulamento;
 
 import java.util.ArrayList;
 import java.util.Scanner;

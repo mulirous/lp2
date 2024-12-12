@@ -1,4 +1,4 @@
-package listaSala.repeticao;
+package repeticao;
 import java.util.Scanner;
 
 public class ImparPar {
